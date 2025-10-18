@@ -10,3 +10,4 @@ def buscar_tarefas():
         "status": "Concluido",
         }
     ]
+    return tarefas
